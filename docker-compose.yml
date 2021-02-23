@@ -10,6 +10,8 @@ services:
     restart: unless-stopped
     volumes:
       - /dev/shm:/dev/shm
+    security_opt:
+      - seccomp=./config/chrome.json
     network_mode: "container:traefik"
     environment:
       - VNC_PASSWORD

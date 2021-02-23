@@ -17,14 +17,14 @@ fireox
 
 ```sh
 ./brave.sh
-brave-browser --no-sandbox
+brave-browser
 ```
 
 **Edge:**
 
 ```sh
 ./edge.sh
-microsoft-edge-dev --no-sandbox
+microsoft-edge-dev
 ```
 
 * * *
