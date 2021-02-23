@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  vnc:
+    container_name: vnc
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ghcr.io/dbushell/vnc
+    restart: unless-stopped
+    volumes:
+      - /dev/shm:/dev/shm
+    network_mode: "container:traefik"
+    environment:
+      - VNC_PASSWORD
