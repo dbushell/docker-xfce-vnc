@@ -1,6 +1,14 @@
 # 🖥️ Docker XFCE VNC
 
-An XFCE desktop environment and VNC server for remote access. Built upon a configured [Ubuntu base image](https://github.com/dbushell/docker-ubuntu).
+An XFCE desktop environment and VNC server for remote access. Built upon a configured [Ubuntu base image](https://github.com/dbushell/docker-ubuntu). Designed from browser testing.
+
+[Why does this exists?](https://dbushell.com/2021/03/01/docker-xfce-vnc-remote-desktop-browser-testing/)
+
+## Usage
+
+Default passwords are same as user name.
+
+Connect VNC client to `localhost:5901` (default password: `password`).
 
 ## Install Browsers
 

@@ -1,0 +1,75 @@
+{
+  "autofill": {
+    "credit_card_enabled": false,
+    "profile_enabled": false
+  },
+  "bookmark_bar": {"show_on_all_tabs": false},
+  "brave": {
+    "always_show_bookmark_bar_on_ntp": false,
+    "branded_wallpaper_notification_dismissed": true,
+    "brave_ads": {
+      "enabled": false
+    },
+    "fb_embed_default": false,
+    "google_login_default": false,
+    "hangouts_enabled": false,
+    "hide_brave_rewards_button": true,
+    "location_bar_is_wide": true,
+    "new_tab_page": {
+      "show_background_image": false,
+      "show_binance": false,
+      "show_branded_background_image": false,
+      "show_brave_today": false,
+      "show_gemini": false,
+      "show_rewards": false,
+      "show_stats": true,
+      "show_together": false
+    },
+    "other_bookmarks_migrated": true,
+    "search": {"default_version": 12},
+    "shields_settings_version": 2,
+    "today": {"sources": {}},
+    "twitter_embed_default": false
+  },
+  "browser": {
+    "has_seen_welcome_page": true,
+    "last_clear_browsing_data_tab": 1
+  },
+  "credentials_enable_autosignin": false,
+  "crypto_dot_com": {"new_tab_page": {"show_crypto_dot_com": false}},
+  "default_search_provider": {
+    "synced_guid": "485bf7d3-0215-45af-87dc-538868000510"
+  },
+  "default_search_provider_data": {
+    "template_url_data": {
+      "alternate_urls": [],
+      "contextual_search_url": "",
+      "created_by_policy": false,
+      "created_from_play_api": false,
+      "date_created": "0",
+      "doodle_url": "",
+      "favicon_url": "https://www.startpage.com/sp/cdn/favicons/favicon-32x32.png",
+      "id": "6",
+      "image_url": "",
+      "image_url_post_params": "",
+      "input_encodings": ["UTF-8"],
+      "keyword": ":sp",
+      "last_modified": "0",
+      "last_visited": "0",
+      "logo_url": "",
+      "new_tab_url": "",
+      "originating_url": "",
+      "prepopulate_id": 510,
+      "safe_for_autoreplace": true,
+      "search_url_post_params": "",
+      "short_name": "Startpage",
+      "suggestions_url": "https://www.startpage.com/cgi-bin/csuggest?query={searchTerms}&limit=10&format=json",
+      "suggestions_url_post_params": "",
+      "synced_guid": "485bf7d3-0215-45af-87dc-538868000510",
+      "url": "https://www.startpage.com/do/search?q={searchTerms}",
+      "usage_count": 0
+    }
+  },
+  "media_router": {"enable_media_router": false},
+  "payments": {"can_make_payment_enabled": false}
+}
