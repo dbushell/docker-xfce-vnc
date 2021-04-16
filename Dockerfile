@@ -10,7 +10,6 @@ USER root
 RUN apt update \
   && apt upgrade -y \
   && apt install -y xfce4 xfce4-terminal \
-    curl wget dnsutils iputils-ping net-tools \
     fonts-firacode fonts-noto-color-emoji \
   && apt clean -y
 
