@@ -37,4 +37,4 @@ microsoft-edge-dev
 
 * * *
 
-[MIT License](/LICENSE) | Copyright © 2021 [David Bushell](https://dbushell.com) | [@dbushell](https://twitter.com/dbushell)
+[MIT License](/LICENSE) | Copyright © 2021 [David Bushell](https://dbushell.com)
